@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CSGSI Forms.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="ru-RU" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CSGSI Forms" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CSGSI Forms.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если вы хотите использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSGSI Forms.exe" size="253888">
+      <assemblyIdentity name="CSGSI Forms" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>wLlVz+E04VQ4+dhH9YhXNGsW8RzY0xd85U+H27ENsz0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSGSI.dll" size="15360">
+      <assemblyIdentity name="CSGSI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qYkIxKZ5WO/ye4SmF+PLQsOry9LnEBqobvkezAIynDM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="489472">
+      <assemblyIdentity name="Newtonsoft.Json" version="9.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>BRbUEJJjwSbHeeTo9YeTSWY/oKWyPW1EFnQD4UBm5vk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CSGSI Forms.exe.config" size="1954">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4+BBI+uJgbS3Dzp7yiw9yHxYQBtI5xZPvGbw++jIsrI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="death\Seva_AllyDefeated.mp3" size="55904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6K0VhRr5pK6IoExwuIXSTdmEJM/pf+C/PwgzYvoJT2I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="death\Seva_NatashaLost.mp3" size="40928">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HQ56heyHBoXfH6KJvwmkqMQcRXBUZk6CC0qD9iXjgBE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="death\Seva_TanyaLost.mp3" size="34592">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9y2+cKxXJ9R7AKwXem7lPiu1THf+WM4xDo0PKTMZfhw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="death\Seva_UnitLost.mp3" size="48992">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kpDxjirTQI31FtR/axVxgIPv6djxB1vTiGaZgnwBszc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="death\Seva_YouHaveLost.mp3" size="35744">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>j7u+wAzpLhVVqfetzg5idaZExw7t69REEOsSWZbapzw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="death\Seva_YouHaveResign.mp3" size="57632">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uMM6DNKXL/xnJ5Uf3l041ryGWXryv+w1FG9uFVL/FwI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="death\Seva_YurikoLost.mp3" size="42080">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>u8Ecf61eGnWTa7IXwUVSqEqeqoow4e8fIGMJTQYiM1E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="flashbang\flashbang.mp3" size="63676">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>HE/aDnquWjpZePFJl/xlEUCsJgjDqbmNUTEqKNFnL+8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="flashbang\Nelson.mp3" size="35409">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LyWlrKyQ0hlMwZeR6yhrT4IpPplN/on7bK2pe/E5yiA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="health\76.mp3" size="21925">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Vn2hNsUhQh7wlauL8vuCormBnkvhj70FX1ufxnR47Fc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="health\Mei.mp3" size="16260">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gHic9z2YhRtQHUSN/ineRlqRCHAMYFacPCz30kWxxXU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="health\Seva_AllyUndAttack.mp3" size="42656">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bIgHPolhCnpmjhjI31TMOIWjyGG3cYSydFHQPUUgNzA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="health\Seva_UnitInfected.mp3" size="43808">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dBen8utwi7TqjCZp65fSEo6rRRkke9MRlCKi00X8dME=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="health\Seva_UnitUndAttack.mp3" size="42080">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>88PiFxbfMj5IusCnI+eYoLciBH6hVzhi3s2uLtJ9G6w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="health\Torbj.mp3" size="25189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ecrBNg3nFExWJ+O5eyjLE9oLwINPEVfO4xstppMXx5c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="health\Winston.mp3" size="36421">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XwWvIbyWEjXRxZEo7Og+masJ9Pk79T+qPbJiG1mWto0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="health\Zenyatta.mp3" size="21517">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6ipavzo5cf4w1Y6QqoXzFQRmXQ9r2BgE6zlOXgHGxBE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="lose\kto takie.mp3" size="86645">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bobag7u3z0urIIb/CrA2rax+6pw82f7d2G0fvUxkxxs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="lose\oh no.mp3" size="933328">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cYlhR6T1H0UiVX5Mmy3U8EtmFn+iuzV5Z+g94bHjMIU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="lose\suicide2.wav" size="85526">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9L8yU8C3e4lX5uLVEDDY04F6OC9Q3kDOOMfwxx4eRTE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="lose\suicide4.wav" size="114532">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gNqVgIlyhCgRauDBjxHkT8YrHlIj0orbi/sw0G6os0A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="lose\suicide5.wav" size="70832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Q8EnkOgWKD7cFXAxJoT6rpaDBIgwNCaaUJ7BG7zARcc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="lose\suicide6.wav" size="55854">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>k3Tb1SH/VPKlS9/z3dGGTsC6t0t1Bc1fvniG/NHKpOQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\doublekill\doublekill.wav" size="37558">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZuB61rpKyXi0AdcXOR2b5C0YgSMHLFiD1Ko2Ctebrtk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\doublekill\doublekill1.wav" size="75387">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bW/iqZcIZQrcXc7rEthrOPe9OoCnXlXNnwZDtmxKi/0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\doublekill\f_megakill.wav" size="31913">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GyUh1XZuBUqwCk0XvJwidshSEb2uMYmP9pu/AKLeHf0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\doublekill\f_wickedsick.wav" size="51788">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Brn5ejhqKHm7qyro+J08C/guHV9/gdzlgeQ1UpZw3zQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\firstblood\firstblood.wav" size="32824">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>aILYzi/lSMwfRGS1lBYxluvw9VCwP2HYhks1q5c9UYM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\firstblood\firstblood1.wav" size="62143">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Wuo3U09EPHU5qT+5fJ0m9Cj9zWKSOZjfJY3ycOb/rlY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\headshot\boomheadshot.mp3" size="34511">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>S9ddZfjOE7yGqdWL/RJmnJVN1vptUw8TmlEA06kaqzY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\headshot\f_headshot.wav" size="28268">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4poFJhR7U1GPLcBHrM3UrMH55LbalvLcmNVqHt6Umbg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\headshot\headshot.wav" size="28278">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>UJk2FrzGoY3pF9gxgeYPw4q52iGin+bgbw9qxrM1NYA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\headshot\headshot1.wav" size="81557">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+LKjKTTwizwX5wo+0GQ6UnSTlkR7poW+hv0Yi/DEOvw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\dominating.wav" size="62446">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wHIb8nLg5o4w9pqtvjVDizIqCYiAykTUpHteX+Kr4tI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\f_dominating.wav" size="38955">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>IYVcn3OPoMHBttqgiVUvqCieD51dNJzyMxemL58yl+s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\f_godlike.wav" size="39616">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>k4yF3+fZT43/9Pqq6hPo5QlaK1y1WM8SuxEfyg/ibu8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\f_holyshit.wav" size="48142">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>o31Zw4LPDXHv+4q74QeZSV6PcSNPtOpaTTz4APbsWno=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\f_killingspree.wav" size="32854">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lolALjNAmhAFkOk9QN2vxCrJRXSJp99KE3KvrfHGGjs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\f_unstoppable.wav" size="36970">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>euV4Blo9i1wk3WfLRlmORDYGNt8CpfGJnhXO0gzl9pg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\f_wickedsick.wav" size="51788">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Brn5ejhqKHm7qyro+J08C/guHV9/gdzlgeQ1UpZw3zQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\godlike.wav" size="32118">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>kkwTJgoTdUhNcgS2ThfAyv6exJgfuz5MtR6tXvJiBZY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\holyshit.wav" size="160252">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>j6Dw6IHxZidHSECfDLky95EeO9OPEfRV8WnAKf1Z3ac=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\humiliation.wav" size="77816">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>AmyGK7FFSG1sh6ZCboZM9F8d11DGwZQ5HScXclBk2lI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\killingspree.wav" size="40880">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>V+Eeljp7/y1PeIsKyfZdeAX/t47OROzEBWS3toJBEHc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\unreal.wav" size="96812">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yOCwqFnGVPoK7PYFLAUNT2hJDnYicTcLmWcXAUM0E4o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\unstoppable.wav" size="43378">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>31JSkabbkhc0+hnmS0qV6IQJDuo78pu9kGobot5zdPY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\other\wickedsick.wav" size="111338">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>EgVr69mpkNw/RoeupXfBhqlOHmHC+zCD1JpL9WjjSt8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\rampage\f_monsterkill.wav" size="38382">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl+DsqC9X2FRWoyGFViVIw6wgcwIWydzdACqwiIYQKQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\rampage\f_rampage.wav" size="30502">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MVogR2DIOH/tMG76fNDwNLCekAaZD+MWG/k4hOTN9yg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\rampage\monsterkill.wav" size="90606">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>SqJYyIEF8eJPibY/aaNcHXXIPRwn1DzJSOupt2uzYG0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\rampage\monsterkill1.wav" size="212149">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>deT/1zvm9Eb9+je+xmmSxNqEUnuwI4pYfqarXgT7ZUY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\rampage\rampage.wav" size="38256">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>QgY7MxwARnuRmszONgJEaimyJsqBEaFkGSzuXYjgdlo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\triplekill\f_multikill.wav" size="31737">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+t0AQaPV95rg25gqBxdHJBVlrrEOkkC4h0I2RChf2Uw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\triplekill\multikill.wav" size="42550">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Um4cme6TDOxynyaakW6YPBijzlREmSn0I5U/tUPCS2c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\triplekill\multikill1.wav" size="91405">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>mgwOjJIWwCkKqwlDry0iKjVMe+jsDxOLE5FUaHuV554=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\triplekill\triplekill.wav" size="36400">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>22Vztw8/1IQMJ00irXaFuGrWA6XMZ2WqqcJvoIV875A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\ultrakill\f_ultrakill.wav" size="30678">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>aXtKY1TuiOlylQle8CWFnEx7AXqxrwdjvVNkPqDhtLs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\ultrakill\megakill.wav" size="39222">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>u6p4Xanl1s0PznMQx/+g5PlOgW49yn7W6mGviUz2qVQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ultimate\ultrakill\ultrakill.wav" size="44022">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hC+jKNkskcwL0DFfeLFTAGtgRsv0E0HGP3RmO5lPlrY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\bitch.mp3" size="920867">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KxN3g0VIXt3Ud6EWcmX93zBE5/OtHidGXPZ6V/ZitSE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\heiter.mp3" size="735424">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GBlxe20bNY3fXmaRzt9rwm9MSHPZpUV3PF69JSX9c0U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\leytenant.mp3" size="935483">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/L8oT53LVQyiSeFgDc3rTahdgKtjZRzu6agHMm8JZYk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\remix.mp3" size="906185">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>M7dxh3Gf/uwzUvs0FloadTNTMs9pBZumVhfgGcDwJco=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\sadboy.mp3" size="651803">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0rhpZMb6fI0NHtVjAiL6moWN8nPLfYcVBFTm4r4LY48=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\sobolev.mp3" size="970868">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hYidcnTW/aVnMDC3qH963l8DY9+LtHKoegt+ZUG3emo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\sukasuka.mp3" size="577887">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>7SPUuptilrkdMzB93ee5NWnEAVAIE1bDJqN7TkH77fk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\uxodi.mp3" size="401054">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>M0c3aoztcDXl9gP6A5i3P3cbvQVzK6uqx7RHzhT99ug=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\whenyouplay.mp3" size="898034">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5QPbCCurKUWVlQ2GjDpJsOqeLWyPoCbOxcKtmrUtQQU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\yaneastrolog.mp3" size="703611">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/LQ5jZsXnRuQb0jg8JhRKhMGv1CdZxGv6fmbSwddQNw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="win\yasoldat.mp3" size="898775">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>P5Z1I2uyslmPxQYbzJxqqsCE/3Sf+Z5rhSYhmEfnDsE=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>

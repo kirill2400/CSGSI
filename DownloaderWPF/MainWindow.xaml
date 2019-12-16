@@ -1,0 +1,24 @@
+﻿<Window x:Class="DownloaderWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DownloaderWPF"
+        mc:Ignorable="d"
+        Title="Downloader" Height="187" Width="296">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="60" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <ProgressBar x:Name="TotalPB" />
+        <Label Grid.Column="1" HorizontalAlignment="Center" x:Name="label" />
+        <Button Content="Загрузить" Grid.Column="2" Grid.ColumnSpan="2" Click="Button_Click" />
+        <WrapPanel Grid.Row="1" Grid.ColumnSpan="3" x:Name="WrapPB" />
+    </Grid>
+</Window>

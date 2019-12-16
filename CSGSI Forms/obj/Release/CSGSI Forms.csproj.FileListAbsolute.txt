@@ -1,0 +1,191 @@
+c:\users\kirill\documents\visual studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.exe.config
+c:\users\kirill\documents\visual studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.exe
+c:\users\kirill\documents\visual studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI_Forms.Menu.resources
+c:\users\kirill\documents\visual studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI_Forms.Properties.Resources.resources
+c:\users\kirill\documents\visual studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.csproj.GenerateResource.Cache
+c:\users\kirill\documents\visual studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.exe
+c:\users\kirill\documents\visual studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.pdb
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\gamestate_integration_test.cfg
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.exe.manifest
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.application
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.exe.manifest
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.application
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.csproj.CSGSI Forms.exe.config
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI.dll
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_AllyDefeated.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_NatashaLost.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_TanyaLost.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_UnitLost.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_YouHaveLost.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_YouHaveResign.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_YurikoLost.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\flashbang\flashbang.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\flashbang\Nelson.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\76.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Mei.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Seva_AllyUndAttack.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Seva_UnitInfected.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Seva_UnitUndAttack.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Torbj.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Winston.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Zenyatta.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\kto takie.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\oh no.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\suicide2.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\suicide4.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\suicide5.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\suicide6.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\doublekill\doublekill.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\doublekill\doublekill1.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\doublekill\f_megakill.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\doublekill\f_wickedsick.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\firstblood\firstblood.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\firstblood\firstblood1.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\headshot\boomheadshot.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\headshot\f_headshot.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\headshot\headshot.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\headshot\headshot1.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\dominating.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_dominating.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_godlike.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_holyshit.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_killingspree.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_unstoppable.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_wickedsick.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\godlike.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\holyshit.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\humiliation.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\killingspree.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\unreal.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\unstoppable.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\wickedsick.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\rampage\f_monsterkill.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\rampage\f_rampage.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\rampage\monsterkill.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\rampage\monsterkill1.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\rampage\rampage.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\triplekill\f_multikill.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\triplekill\multikill.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\triplekill\multikill1.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\triplekill\triplekill.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\ultrakill\f_ultrakill.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\ultrakill\megakill.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\ultrakill\ultrakill.wav
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\bitch.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\heiter.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\leytenant.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\remix.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\sadboy.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\sobolev.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\sukasuka.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\uxodi.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\whenyouplay.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\yaneastrolog.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\yasoldat.mp3
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.csprojResolveAssemblyReference.cache
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.csprojResolveAssemblyReference.cache
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.csproj.CSGSI Forms.exe.config
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI_Forms.Menu.resources
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI_Forms.Properties.Resources.resources
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.csproj.GenerateResource.Cache
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.exe
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.pdb
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_AllyDefeated.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_NatashaLost.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_TanyaLost.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_UnitLost.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_YouHaveLost.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_YouHaveResign.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\death\Seva_YurikoLost.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\flashbang\flashbang.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\flashbang\Nelson.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\76.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Mei.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Seva_AllyUndAttack.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Seva_UnitInfected.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Seva_UnitUndAttack.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Torbj.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Winston.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\health\Zenyatta.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\kto takie.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\oh no.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\suicide2.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\suicide4.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\suicide5.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\lose\suicide6.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\doublekill\doublekill.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\doublekill\doublekill1.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\doublekill\f_megakill.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\doublekill\f_wickedsick.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\firstblood\firstblood.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\firstblood\firstblood1.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\headshot\boomheadshot.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\headshot\f_headshot.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\headshot\headshot.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\headshot\headshot1.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\dominating.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_dominating.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_godlike.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_holyshit.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_killingspree.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_unstoppable.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\f_wickedsick.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\godlike.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\holyshit.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\humiliation.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\killingspree.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\unreal.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\unstoppable.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\other\wickedsick.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\rampage\f_monsterkill.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\rampage\f_rampage.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\rampage\monsterkill.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\rampage\monsterkill1.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\rampage\rampage.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\triplekill\f_multikill.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\triplekill\multikill.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\triplekill\multikill1.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\triplekill\triplekill.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\ultrakill\f_ultrakill.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\ultrakill\megakill.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\ultimate\ultrakill\ultrakill.wav
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\bitch.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\heiter.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\leytenant.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\remix.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\sadboy.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\sobolev.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\sukasuka.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\uxodi.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\whenyouplay.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\yaneastrolog.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\win\yasoldat.mp3
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\gamestate_integration_test.cfg
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.exe.config
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.exe.manifest
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.application
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.exe
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.pdb
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI.dll
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\bin\Release\Newtonsoft.Json.dll
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.exe.manifest
+J:\География\Visual Studio 2015\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.application
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\bin\Release\gamestate_integration_test.cfg
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.exe.config
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.exe.manifest
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.application
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.exe
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI Forms.pdb
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\bin\Release\Newtonsoft.Json.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\bin\Release\CSGSI.xml
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI_Forms.Menu.resources
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI_Forms.Overlay.resources
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI_Forms.Properties.Resources.resources
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.csproj.GenerateResource.Cache
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.exe.manifest
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.application
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.exe
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Release\CSGSI Forms.pdb

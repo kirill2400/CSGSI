@@ -1,0 +1,7 @@
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI_LibraryForPascal\bin\Debug\CSGSI_LibraryForPascal.dll
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI_LibraryForPascal\bin\Debug\CSGSI_LibraryForPascal.pdb
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI_LibraryForPascal\bin\Debug\CSGSI.dll
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI_LibraryForPascal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI_LibraryForPascal\obj\Debug\CSGSI_LibraryForPascal.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI_LibraryForPascal\obj\Debug\CSGSI_LibraryForPascal.dll
+C:\Users\Kirill\Documents\Visual Studio 2015\Projects\CSGSI Test\CSGSI_LibraryForPascal\obj\Debug\CSGSI_LibraryForPascal.pdb
