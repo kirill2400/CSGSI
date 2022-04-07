@@ -104,3 +104,25 @@ C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj
 C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Debug\CSGSI Forms.pdb
 C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Debug\CSGSI Forms.csprojResolveAssemblyReference.cache
 C:\Users\Kirill\Documents\Visual Studio 2017\Projects\CSGSI Test\CSGSI Forms\obj\Debug\CSGSI_Forms.Overlay.resources
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\bin\Debug\gamestate_integration_test.cfg
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\bin\Debug\CSGSI Forms.exe.config
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\bin\Debug\CSGSI Forms.exe.manifest
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\bin\Debug\CSGSI Forms.application
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\bin\Debug\CSGSI Forms.exe
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\bin\Debug\CSGSI Forms.pdb
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\bin\Debug\CSGSI.dll
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\bin\Debug\Newtonsoft.Json.dll
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\bin\Debug\CSGSI.xml
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI Forms.csproj.AssemblyReference.cache
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI_Forms.Menu.resources
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI_Forms.Overlay.resources
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI_Forms.Properties.Resources.resources
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI Forms.csproj.GenerateResource.cache
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI Forms.csproj.CoreCompileInputs.cache
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI Forms.exe.manifest
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI Forms.application
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI Forms.csproj.CopyComplete
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI Forms.exe
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI Forms.pdb
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\bin\Debug\Newtonsoft.Json.xml
+C:\UnityProjects\VSProjects\CSGSI\CSGSI Forms\obj\Debug\CSGSI Forms.exe.config

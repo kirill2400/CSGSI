@@ -14,7 +14,7 @@ namespace CSGSI_Forms
 {
     public partial class Overlay : Form, IDisposable
     {
-        public const string WINDOW_NAME = "Counter-Strike: Global Offensive";
+        public const string WINDOW_NAME = "Counter-Strike: Global Offensive - Direct3D 9";
         IntPtr handle;
 
         public struct RECT
@@ -50,7 +50,7 @@ namespace CSGSI_Forms
         StringFormat format = new StringFormat();
         private void Setup()
         {
-            point = new PointF(10.0f, rect.bottom - 50.0f);
+            point = new PointF(10.0f, rect.bottom - 100.0f);
         }
         internal void SetGS(GameState gs)
         {
@@ -82,7 +82,7 @@ namespace CSGSI_Forms
             if (_gs != null)
                 g.DrawString(_gs.Player.Name + "'s health: " + _gs.Player.State.Health
                     + " Armor: " + _gs.Player.State.Armor, font, brush, point);
-            g.CopyFromScreen(Cursor.Position.X - 10, Cursor.Position.Y - 10, 0, 0, Screen.PrimaryScreen.Bounds.Size, CopyPixelOperation.SourceCopy);
+            //g.CopyFromScreen(Cursor.Position.X - 10, Cursor.Position.Y - 10, 0, 0, Screen.PrimaryScreen.Bounds.Size, CopyPixelOperation.SourceCopy);
             this.Invalidate();
         }
 

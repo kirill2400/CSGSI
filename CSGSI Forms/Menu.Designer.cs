@@ -25,8 +25,8 @@ namespace CSGSI_Forms
         #region Код, автоматически созданный конструктором форм Windows
 
         /// <summary>
-        /// Требуемый метод для поддержки конструктора — не изменяйте 
-        /// содержимое этого метода с помощью редактора кода.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
@@ -50,11 +50,11 @@ namespace CSGSI_Forms
             this.StopServerButton = new System.Windows.Forms.Button();
             this.SettingsButton = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.spVolume)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize) (this.spVolume)).BeginInit();
             this.Local.SuspendLayout();
             this.Network.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.SettingsButton)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize) (this.SettingsButton)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize) (this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // spVolume
@@ -82,6 +82,8 @@ namespace CSGSI_Forms
             // LocalAllPlayers
             // 
             this.LocalAllPlayers.AutoSize = true;
+            this.LocalAllPlayers.Checked = true;
+            this.LocalAllPlayers.CheckState = System.Windows.Forms.CheckState.Checked;
             this.LocalAllPlayers.Location = new System.Drawing.Point(6, 111);
             this.LocalAllPlayers.Name = "LocalAllPlayers";
             this.LocalAllPlayers.Size = new System.Drawing.Size(74, 17);
@@ -107,6 +109,8 @@ namespace CSGSI_Forms
             // LocalFreeze
             // 
             this.LocalFreeze.AutoSize = true;
+            this.LocalFreeze.Checked = true;
+            this.LocalFreeze.CheckState = System.Windows.Forms.CheckState.Checked;
             this.LocalFreeze.Location = new System.Drawing.Point(6, 88);
             this.LocalFreeze.Name = "LocalFreeze";
             this.LocalFreeze.Size = new System.Drawing.Size(72, 17);
@@ -118,6 +122,8 @@ namespace CSGSI_Forms
             // LocalFlashbang
             // 
             this.LocalFlashbang.AutoSize = true;
+            this.LocalFlashbang.Checked = true;
+            this.LocalFlashbang.CheckState = System.Windows.Forms.CheckState.Checked;
             this.LocalFlashbang.Location = new System.Drawing.Point(6, 19);
             this.LocalFlashbang.Name = "LocalFlashbang";
             this.LocalFlashbang.Size = new System.Drawing.Size(97, 17);
@@ -129,6 +135,8 @@ namespace CSGSI_Forms
             // LocalKillingSpree
             // 
             this.LocalKillingSpree.AutoSize = true;
+            this.LocalKillingSpree.Checked = true;
+            this.LocalKillingSpree.CheckState = System.Windows.Forms.CheckState.Checked;
             this.LocalKillingSpree.Location = new System.Drawing.Point(6, 42);
             this.LocalKillingSpree.Name = "LocalKillingSpree";
             this.LocalKillingSpree.Size = new System.Drawing.Size(100, 17);
@@ -140,6 +148,8 @@ namespace CSGSI_Forms
             // LocalMusic
             // 
             this.LocalMusic.AutoSize = true;
+            this.LocalMusic.Checked = true;
+            this.LocalMusic.CheckState = System.Windows.Forms.CheckState.Checked;
             this.LocalMusic.Location = new System.Drawing.Point(6, 65);
             this.LocalMusic.Name = "LocalMusic";
             this.LocalMusic.Size = new System.Drawing.Size(66, 17);
@@ -191,6 +201,8 @@ namespace CSGSI_Forms
             // NetworkHealth
             // 
             this.NetworkHealth.AutoSize = true;
+            this.NetworkHealth.Checked = true;
+            this.NetworkHealth.CheckState = System.Windows.Forms.CheckState.Checked;
             this.NetworkHealth.Location = new System.Drawing.Point(6, 19);
             this.NetworkHealth.Name = "NetworkHealth";
             this.NetworkHealth.Size = new System.Drawing.Size(134, 17);
@@ -298,16 +310,15 @@ namespace CSGSI_Forms
             this.Text = "Offline";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.CloseApplication);
             this.Shown += new System.EventHandler(this.StartThreads);
-            ((System.ComponentModel.ISupportInitialize)(this.spVolume)).EndInit();
+            ((System.ComponentModel.ISupportInitialize) (this.spVolume)).EndInit();
             this.Local.ResumeLayout(false);
             this.Local.PerformLayout();
             this.Network.ResumeLayout(false);
             this.Network.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.SettingsButton)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize) (this.SettingsButton)).EndInit();
+            ((System.ComponentModel.ISupportInitialize) (this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion

@@ -15,15 +15,15 @@
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
         <!--
           Параметры манифеста UAC
-          При необходимости изменить уровень контроля учетных записей Windows замените узел 
-          requestedExecutionLevel одним из следующих значений.
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
 
         <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
         <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
         <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
 
-         Если вы хотите использовать виртуализацию файлов и реестра для обратной 
-         совместимости, удалите узел requestedExecutionLevel.
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
     -->
         <requestedExecutionLevel level="asInvoker" uiAccess="false" />
       </requestedPrivileges>
@@ -42,48 +42,48 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSGSI Forms.exe" size="345088">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSGSI Forms.exe" size="344576">
       <assemblyIdentity name="CSGSI Forms" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>g86LMnbm6WZiNBex2OUHt7Jm7fdwem0eHcm/tKXj+tE=</dsig:DigestValue>
+        <dsig:DigestValue>9HECA8uLXzu3ahpVAA67yZ9X6gtKUiSQapNE606MkyA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSGSI.dll" size="18432">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CSGSI.dll" size="25088">
       <assemblyIdentity name="CSGSI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9BIomtRBHABEYVWMsmF+7vfaQk2tymsHCwS6xXqVIXk=</dsig:DigestValue>
+        <dsig:DigestValue>Ic7jjbjd49+iGYMPc8GCGc8Gs/sqCZOv9Onb6lgGdxI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="489472">
-      <assemblyIdentity name="Newtonsoft.Json" version="9.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="701992">
+      <assemblyIdentity name="Newtonsoft.Json" version="13.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BRbUEJJjwSbHeeTo9YeTSWY/oKWyPW1EFnQD4UBm5vk=</dsig:DigestValue>
+        <dsig:DigestValue>tiSUnfiw46YVP9+3MKfG9JkLZZLuDZIuF4hDPSdmEPM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="CSGSI Forms.exe.config" size="1951">
+  <file name="CSGSI Forms.exe.config" size="1953">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>bwD2c0RhMnTC9ui5s/tiu16qQJ3UO4lpeYX0GbDUBxE=</dsig:DigestValue>
+      <dsig:DigestValue>wA/VfWO1HdQe2qfBEAdRfWN0hN7YWzZt8Y/Zm8IWbgY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
